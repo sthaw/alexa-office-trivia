@@ -1,0 +1,29 @@
+AnswerIntent the answer is {Answer}
+AnswerIntent my answer is {Answer}
+AnswerIntent is it {Answer}
+AnswerIntent {Answer} is my answer
+AnswerIntent {Answer}
+AnswerIntent it's {Answer}
+
+DontKnowIntent i don't know
+DontKnowIntent don't know
+DontKnowIntent skip
+DontKnowIntent i don't know that
+DontKnowIntent who knows
+DontKnowIntent i don't know this question
+DontKnowIntent i don't know that one
+DontKnowIntent dunno
+
+AMAZON.StartOverIntent start game
+AMAZON.StartOverIntent new game
+AMAZON.StartOverIntent start over
+AMAZON.StartOverIntent start new game
+
+AMAZON.RepeatIntent repeat the question
+AMAZON.RepeatIntent can you repeat that
+AMAZON.RepeatIntent i didn't hear that
+
+AMAZON.HelpIntent help menu
+AMAZON.HelpIntent open the help menu
+AMAZON.HelpIntent explain the rules
+AMAZON.HelpIntent help
